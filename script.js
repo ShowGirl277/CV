@@ -1,5 +1,5 @@
 const circle = document.getElementById("circle");
-const text = " PORTFOLIO DESIGN  ";
+const text = " WELCOME TO MY CV ";
 const radius = 450;
 const degStep = 410 / text.length;
 
